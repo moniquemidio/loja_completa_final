@@ -1,0 +1,17 @@
+/* styles.css */
+body {
+    padding-top: 56px; /* Espaço para a navbar */
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.container {
+    max-width: 960px;
+}
